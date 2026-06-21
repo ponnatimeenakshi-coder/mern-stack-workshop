@@ -1,0 +1,36 @@
+body{
+    background-color: #f0f8ff;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color: #0d6efd;
+}
+
+.card{
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px lightgray;
+}
+
+.card img{
+    height: 250px;
+    object-fit: contain;
+    background-color: #f8f9fa;
+}
+
+.card-title{
+    color: #dc3545;
+}
+
+.btn-cart{
+    background-color: #198754;
+    color: white;
+    width: 100%;
+}
+
+.btn-cart:hover{
+    background-color: #146c43;
+    color: white;
+}
